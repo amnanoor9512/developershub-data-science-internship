@@ -81,11 +81,3 @@ This dataset is easily accessible through the `seaborn` library.
 
 ---
 
-## 🙋‍♀️ Author
-
-**Amna Noor**  
-Data Science & Analytics Intern  
-[GitHub Profile](https://github.com/your-username)
-
----
-
