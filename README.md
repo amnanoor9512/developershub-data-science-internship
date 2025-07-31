@@ -85,7 +85,7 @@ The **Iris dataset** contains measurements for 150 iris flowers from three speci
 
 **Amna Noor**  
 Data Science & Analytics Intern  
-[GitHub Profile]()
+[GitHub Profile](https://github.com/amnanoor9512)
 
 ---
 
