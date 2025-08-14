@@ -18,48 +18,27 @@ task2/
 Python 3
 
 Pandas – Data manipulation
-
 Scikit-learn – Machine learning model & preprocessing
-
 Jupyter Notebook – Development environment
-
 Pickle – Model persistence
-
 📊 Dataset Information
 The dataset contains:
-
 Income – Annual income of the applicant
-
 Age – Applicant's age
-
 Experience – Years of professional experience
-
 Married/Single – Marital status
-
 House_Ownership – Own, Rent, or Mortgage
-
 Car_Ownership – Owns a car or not
-
 Profession – Job title
-
 CITY – Applicant’s city
-
 STATE – Applicant’s state
-
 CURRENT_JOB_YRS – Years in current job
-
 CURRENT_HOUSE_YRS – Years in current residence
-
 Risk_Flag – Target variable (1 = Risky, 0 = Safe)
-
 📌 How It Works
 Data Preprocessing – Categorical values are converted to numbers using Label Encoding.
-
 Model Training – A machine learning model (e.g., Random Forest) is trained on historical data.
-
 Prediction – The trained model predicts risk for new applicants.
-
 Restriction – For categorical fields, users must choose from available dataset values.
-
 Output – 1 means Risky, 0 means Safe.
 
